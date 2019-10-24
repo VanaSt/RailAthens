@@ -28,8 +28,6 @@
 					</ul>
 				</li>
 				
-				<li <?php if($van=='team') echo "class='active'"; ?>><a href="about.php">Η ΟΜΑΔΑ ΜΑΣ</a></li>
-				
 				<li <?php if($van=='contact') echo "class='active'"; ?>><a href="single.php">ΕΠΙΚΟΙΝΩΝΙΑ</a></li>
 					
 			</ul>
