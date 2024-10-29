@@ -4,7 +4,7 @@
 			<div class="col-md-4 widget">
 				<h3 class="widget-title">Contact</h3>
 				<div class="widget-body">
-					<p>6977407954<br>
+					<p>
 						<a href="mailto:#">vanastergiou@gmail.com</a><br>
 						<br>
 						Πλατεία Θεάτρου 3, Αθήνα, ΤΚ 10552, Ελλάδα
@@ -29,11 +29,6 @@
 					</p>
 				</div>
 			</div>
-
-			
-
-			
-
 		</div> <!-- /row of widgets -->
 	</div>
 </footer>
