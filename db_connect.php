@@ -1,8 +1,8 @@
 <?php
-    $server ="localhost";
-    $user ="root";
+    $server ="";
+    $user ="";
     $pass ="";
-    $db ="metro";
+    $db ="";
 
     $conn = mysqli_connect($server, $user, $pass, $db); // Δημιουργία σύνδεσης
     mysqli_set_charset($conn,"utf8");
